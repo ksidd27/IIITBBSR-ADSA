@@ -3,7 +3,7 @@
 
 ---
 
-## 👨‍🎓 Student Information
+## 🧑🏻‍🎓 Student Information
 - **Name:** Siddharth Kumar  
 - **Degree:** Master of Technology    
 - **Institute:** International Institute of Information Technology (IIIT), Bhubaneswar  
@@ -11,7 +11,7 @@
 
 ---
 
-## 👩‍🏫 Faculty Information
+## 👨🏻‍🏫 Faculty Information
 - **Professor:** Ajaya Kumar Dash  
 - **Subject:** Advanced Data Structures and Algorithms (ADSA)  
 - **Department:** Computer Science & Engineering  
