@@ -1,4 +1,4 @@
-# 🔢 Matrix Inversion Using LU Decomposition (C)
+# 🔢 Matrix Inversion Using LU Decomposition
 
 This project implements **matrix inversion using LU Decomposition** in the **C programming language**.  
 The algorithm decomposes a given square matrix **A** into:
